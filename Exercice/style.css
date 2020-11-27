@@ -1,0 +1,6 @@
+a:hover {
+  color: purple;
+  letter-spacing: 5px;
+  font-variant: small-caps;
+  text-decoration: underline;
+}

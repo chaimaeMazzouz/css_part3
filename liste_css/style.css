@@ -1,0 +1,8 @@
+.inside {
+  list-style-position: inside;
+  list-style-type: lower-greek;
+}
+.outside {
+  list-style-position: outside;
+  list-style-type: lower-greek;
+}
